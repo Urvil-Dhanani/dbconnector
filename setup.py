@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="dbconsmart",
-    version="0.0.2",
+    version="0.0.3",
     author="Urvil Dhanani",
     author_email="urvild@gmail.com",    
     description="A package to connect to different databases",
