@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="dbconnector",
+    name="dbconsmart",
     version="0.0.1",
     author="Urvil Dhanani",
     author_email="urvild@gmail.com",    
